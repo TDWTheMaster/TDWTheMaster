@@ -1,5 +1,5 @@
 # 💫 About Me:
-🍂 I am currently studying at ITLA<br>🤝 I’m looking for help with<br>🌱 I'm currently learning C#<br>💬 Ask me about anything you want<br>
+🍂 I am currently studying at ITLA<br>🌱 I'm currently learning C#<br>💬 Ask me about anything you want<br>
 
 <!-- <img width="46%" height="100%" align="right" alt="Github" src="https://drive.google.com/file/d/17I2sDTJDX2ZP9UsHjZnqvSfz5p1RWwQ7/view?usp=drive_link" /> -->
 
