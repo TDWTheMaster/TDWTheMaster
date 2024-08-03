@@ -1,10 +1,9 @@
-<h1 align="center">Hey, I´m <a  href="https://github.com/K3ury99">Keury Ramírez</a>.🍃</h1>   
+<h1 align="center">Hey, I´m <a  href="https://github.com/TDWTheMaster">Víctor Sánchez</a>.🔥</h1>   
 </div>
 
-
-
+<img src="https://github.com/user-attachments/assets/6cb4848c-e2e2-4f10-857f-3f453cdf96be">
 # 💫 About Me:
-🍂 I am currently studying at ITLA<br>🌱 I'm currently learning JavaScript with Node.js<br>💬 Ask me about anything you want
+<br>🍂 I am currently studying at ITLA<br>🌱 I'm currently learning JavaScript with Node.js<br>💬 Ask me about anything you want
 
 
 # 💻 Tech Stack:
